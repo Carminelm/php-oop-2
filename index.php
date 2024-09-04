@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . '/category/product.php';
+require_once __DIR__ . '/category/only.php';
 require_once __DIR__ . '/catdogs/catdogs.php';
 
 
